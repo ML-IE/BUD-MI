@@ -15,7 +15,7 @@ This space allows users to **download the latest version**, **suggest improvemen
 - `README.md` — this guide  
 - `Changelog.md` — details of updates and new features
 - `BUD-MI_example` — example of a fully filled template
-- `User Guide_v1.0.pdf` — the user guide for BUD-MI
+- `BUD-MI_User Guide_v1.0.pdf` — the user guide for BUD-MI
 
 ## 🚀 Getting Started
 
