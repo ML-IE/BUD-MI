@@ -9,3 +9,6 @@ Initial GitHub repository setup with documentation and installation instructions
 - Upload of `User_Guide_v1.0.pdf`
 - Creation of `README.md`
 - Creation of `changelog.md`
+
+### Replaced, 2025-11-12
+Unhid mistakenly hidden rows in `BUD-MI_v1.0.0` and replaced the file in the repo
