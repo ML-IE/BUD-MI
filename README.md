@@ -24,7 +24,7 @@ This space allows users to **download the latest version**, **suggest improvemen
 3. Open `BUD_MI_template_v1.0.0.xlsx` on your computer.
 4. Consult the `User Guide_v1.0.pdf`.
 5. Collect MI data!
-(6. Stay tuned for the upcoming BUD-MI database, where you'll be able to upload your freshly collected MI data!)
+...6. Stay tuned for the upcoming BUD-MI database, where you'll be able to upload your freshly collected MI data!
 
 ## 🧩 How to Contribute or Suggest Updates
 You don’t need to be a programmer to help!  
